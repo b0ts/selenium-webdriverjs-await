@@ -5,7 +5,7 @@ Shows how to create Selenium tests using Javascript
 and makes use of await and async functions to handle javascript promises 
 in a more natural way.
 
-It contains both three Selenium test files in .js and matching files in .java  
+It contains three Selenium test files in .js and matching files in .java
 Note: If you know how to write Selenium test in java, you can use the matching files as a Rosetta stone.
 
 It will allow you to compare and contrast the classic 
