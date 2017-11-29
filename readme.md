@@ -9,10 +9,10 @@ It contains three Selenium test files in .js and matching files in .java
 Note: If you know how to write Selenium test in java, you can use the matching files as a Rosetta stone.
 
 It will allow you to compare and contrast the classic 
-Webdriver + Java + Maven typology
+Maven + Webdriver + Java + JUnit + typology
 
 with the newer
-Webdriver + Javascript + Mocha typology
+Maven + Webdriver + Javascript + Mocha typology
 
 Note: Both solutions need to have Chromedriver and Firefoxdriver (Gecko) in the path
 
