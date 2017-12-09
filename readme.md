@@ -20,10 +20,12 @@ In order to run the Javascript version, you will need to have Node, NPM, and Moc
 
 To run the example:
 First clone the repo to a local folder
-Then install the dependency
+Then navigate to selenium-webdriverjs-await and 
+install the dependencies via NPM
 $ npm install
-Finally run the tests
-$ npm test
+
+You can run all tests via NPM
+$ npm run test
 
 For the details on Javascript Selenese see the docs here:
 

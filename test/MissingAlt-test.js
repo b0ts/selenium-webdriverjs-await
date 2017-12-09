@@ -1,4 +1,4 @@
-// Run from command line via
+// Run from command line in the test folder via
 // $ mocha MissingAlt-test.js --timeout=10000
 // see MissingAltTest.java for Rosetta stone
 // Resolving missing alt tags is important for SEO rating and

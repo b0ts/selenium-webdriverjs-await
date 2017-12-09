@@ -1,4 +1,4 @@
-// Run from command line via
+// Run from command line in the test folder via
 // $ mocha ContactForm-test.js --timeout=20000
 // see ContactFormTest.java for Rosetta stone
 
