@@ -11,7 +11,6 @@ const driver = new webdriver.Builder()
     .forBrowser('chrome')
     .build();
 
-
 describe('AirVisual Widget', () => {
 
   process.on('unhandledRejection', error => {
