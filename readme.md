@@ -18,6 +18,13 @@ Note: Both solutions need to have Chromedriver and Firefoxdriver (Gecko) in the 
 
 In order to run the Javascript version, you will need to have Node, NPM, and Mocha installed globally. 
 
+To run the example:
+First clone the repo to a local folder
+Then install the dependency
+$ npm install
+Finally run the tests
+$ npm test
+
 For the details on Javascript Selenese see the docs here:
 
 https://seleniumhq.github.io/selenium/docs/api/javascript/module/selenium-webdriver/
