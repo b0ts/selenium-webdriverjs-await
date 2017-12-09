@@ -1,11 +1,11 @@
 {
   "name": "selenium-webdriverjs-await",
   "private": true,
-  "devDependencies": {
-    "selenium-webdriver": "~2.42.1"
-  },
   "scripts": {
-  "test": "mocha 'test/**/*.js' --timeout 20000",
-  "test-debug": "mocha --debug 'test/**/*.js' --timeout 20000"
-	}
+    "test": "mocha 'test/**/*.js' --timeout 20000",
+    "test-debug": "mocha --debug 'test/**/*.js' --timeout 20000"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^3.6.0"
+  }
 }
